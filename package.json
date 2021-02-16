@@ -41,7 +41,7 @@
     "node": ">=7.6.0"
   },
   "dependencies": {
-    "handlebars": "^4.0.10"
+    "handlebars": "^4.7.7"
   },
   "devDependencies": {
     "bluebird": "^3.5.0",
